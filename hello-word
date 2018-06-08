@@ -1,8 +1,10 @@
 //usuario GitHub carito893
+//German Cachope 2018
 
 <?php
 echo 'Hola mundo!!!!!!';
 echo 'Integración continua es increíble';
+
 
 
 ?>
